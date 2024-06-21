@@ -1,0 +1,106 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: cinzel;
+}
+
+.card {
+   border: 2.88px solid #75464A;
+   border-radius: 27.72px;
+   margin: 25px;
+   width: 550.95px;
+   height: 875px;
+   background-color: #F7F5F5;
+}
+
+.card-header {
+    display: flexbox;
+}
+
+
+.price {
+    font-size: 24px;
+    font-weight: 400px;
+    line-height: 32.35px;
+    margin-top: -25px;
+    margin-left: 500px;
+    color:#FF0000;
+}
+
+.card-img {
+    width: 500px;
+    height: 484.44px;
+    border-radius: 75px;
+    object-fit: cover;
+    margin: 25px;
+}
+
+.card-title {
+    font-size: 24px;
+    font-weight: 700px;
+    width: 296px;
+    height: 23px;
+    line-height: 32.35px;
+    margin-top: 60px;
+    margin-left: 25px;
+    
+}
+
+.name {
+    color: #75464A;
+ 
+}
+
+
+.card-text {
+    width: 202px;
+    margin-top: 35px;
+    margin-left: 25px;
+    letter-spacing: 3%;
+    text-underline-offset: 2px;
+    text-shadow: 1px 3px 4px rgba(0, 0, 0, 0.3);
+    text-transform: uppercase;
+}
+
+.new {
+    color: #FF0000;
+    font-size: 24px;
+    text-decoration: underline #FF0000 ;
+    font-weight: bold;
+    text-decoration-thickness: 1px;
+    text-transform: uppercase;
+}
+
+.instock {
+    font-size: 20px;
+    text-decoration: underline;
+    text-decoration-thickness: 1px;
+    font-weight: 450;
+    line-height: 32.35px;
+    text-transform: uppercase;
+}
+
+.button {
+    background-color: #3F3232;
+    color: #FFFFFF;
+    border-radius: 28.83px;
+    border-style: none;
+    width: 255.4px;
+    height: 65.79px;
+    font-size: 20px;
+    font-family: cinzel;
+    line-height: 26.96px;
+    font-weight: 700;
+    text-transform: uppercase;
+    margin-left: 140px;
+    margin-top: 75px;
+
+
+
+}
+
+
+
